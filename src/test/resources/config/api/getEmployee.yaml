@@ -1,0 +1,4 @@
+method: GET
+accept: application/json
+content-type: application/json
+endpoint: employees/$

@@ -1,0 +1,5 @@
+method: POST
+accept: application/json
+content-type: application/json
+endpoint: employees
+body: src/test/resources/data/api/createEmployee.json
