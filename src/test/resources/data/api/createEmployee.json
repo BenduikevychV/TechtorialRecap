@@ -1,0 +1,20 @@
+{
+  "department": {
+    "departmentId": 0,
+    "departmentName": "string",
+    "location": {
+      "locationCity": "string",
+      "locationCountry": "string",
+      "locationId": 0,
+      "locationState": "string"
+    }
+  },
+  "employeeId": 0,
+  "firstName": "string",
+  "job": {
+    "jobId": "string",
+    "salary": 0,
+    "title": "string"
+  },
+  "lastName": "string"
+}
